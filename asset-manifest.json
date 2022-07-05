@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://aloisiomagalhaes.github.io/csb-ey4xtn/static/js/main.a8e4a77e.chunk.js",
+    "main.js.map": "https://aloisiomagalhaes.github.io/csb-ey4xtn/static/js/main.a8e4a77e.chunk.js.map",
+    "runtime-main.js": "https://aloisiomagalhaes.github.io/csb-ey4xtn/static/js/runtime-main.6ca71287.js",
+    "runtime-main.js.map": "https://aloisiomagalhaes.github.io/csb-ey4xtn/static/js/runtime-main.6ca71287.js.map",
+    "static/js/2.52dc08cb.chunk.js": "https://aloisiomagalhaes.github.io/csb-ey4xtn/static/js/2.52dc08cb.chunk.js",
+    "static/js/2.52dc08cb.chunk.js.map": "https://aloisiomagalhaes.github.io/csb-ey4xtn/static/js/2.52dc08cb.chunk.js.map",
+    "index.html": "https://aloisiomagalhaes.github.io/csb-ey4xtn/index.html",
+    "static/js/2.52dc08cb.chunk.js.LICENSE.txt": "https://aloisiomagalhaes.github.io/csb-ey4xtn/static/js/2.52dc08cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ca71287.js",
+    "static/js/2.52dc08cb.chunk.js",
+    "static/js/main.a8e4a77e.chunk.js"
+  ]
+}

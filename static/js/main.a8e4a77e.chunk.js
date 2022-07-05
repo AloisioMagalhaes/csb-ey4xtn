@@ -1,0 +1,2 @@
+(this["webpackJsonptemplatereact-ey4xtn"]=this["webpackJsonptemplatereact-ey4xtn"]||[]).push([[0],{5:function(e,t,a){"use strict";a.r(t);var c=a(0),n=a(2),o=a(3),r=a.n(o),i=a(4);r.a.init("0fbqag/aloisiomagalhaes");var s=document.getElementById("root");Object(n.createRoot)(s).render(Object(i.jsx)(c.StrictMode,{children:"oi"}))}},[[5,1,2]]]);
+//# sourceMappingURL=main.a8e4a77e.chunk.js.map
